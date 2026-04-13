@@ -1,4 +1,3 @@
-import Link from 'next/link';
 import QuoteForm from '@/components/QuoteForm';
 
 export const metadata = {
@@ -113,7 +112,7 @@ export default function ContactPage() {
               message us on facebook for a quote — we respond quickly
             </p>
             <a
-              href="https://facebook.com/crackdautoglass"
+              href="https://www.facebook.com/profile.php?id=61568818768496"
               target="_blank"
               rel="noopener noreferrer"
               style={{
